@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Yusra Fatima 👋<br>AI Engineer & Frontend Developer passionate about building intelligent systems, AI-powered applications, and modern web experiences.<br><br> 7th Semester University Student | GIAIC Student<br>🤖 Exploring AI, automation, and agentic systems<br>💻 Working with Python, Next.js, TypeScript, and modern AI tools<br>🚀 Always learning, building, and improving<br><br>⭐ Building the future with AI & technology.
 
 
